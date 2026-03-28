@@ -1,6 +1,8 @@
 # Markdown Reader
 
 一个基于单文件 `render.html` 的轻量级 Markdown 阅读与编辑器。
+<img width="1385" height="815" alt="image" src="https://github.com/user-attachments/assets/716d22e6-51cc-4048-ade9-6cd4f7d369bf" />
+
 
 ## 主要功能
 
